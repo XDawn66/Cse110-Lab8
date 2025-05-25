@@ -1,17 +1,16 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
-    "icons": [
-      {
-        "src": "/assets/images/icons/icon-192x192.png",
-        "sizes": "192x192",
-        "type": "image/png"
-      }
-    ]
-  }
-  
+  "name": "CSE110-LAB8",
+  "short_name": "Zhenyu Jiang",
+  "description": "Progressive Web Apps test",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f0f0f0",
+  "icons": [
+    {
+      "src": "/assets/images/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
